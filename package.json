@@ -1,0 +1,14 @@
+{
+  "name": "Decky-TTS",
+  "version": "1.0.0",
+  "description": "A Decky Loader plugin to enable TTS for blind usability.",
+  "main": "main.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "decky-frontend-lib": "^1.2.0"
+  },
+  "author": "Sam Coursey",
+  "license": "MIT"
+}
